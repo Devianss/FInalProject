@@ -123,7 +123,7 @@
             this.btnClear.TabIndex = 6;
             this.btnClear.Text = "Clear";
             this.btnClear.UseVisualStyleBackColor = false;
-            this.btnClear.Click += new System.EventHandler(this.btnClear_Click_1);
+            this.btnClear.Click += new System.EventHandler(this.btnClear_Click);
             // 
             // PlaceOrder
             // 
@@ -458,6 +458,7 @@
             this.btnPlus11.Text = "+";
             this.btnPlus11.TextAlign = System.Drawing.ContentAlignment.TopCenter;
             this.btnPlus11.UseVisualStyleBackColor = false;
+            this.btnPlus11.Click += new System.EventHandler(this.btnPlus11_Click);
             // 
             // btnPlus7
             // 
@@ -471,6 +472,7 @@
             this.btnPlus7.Text = "+";
             this.btnPlus7.TextAlign = System.Drawing.ContentAlignment.TopCenter;
             this.btnPlus7.UseVisualStyleBackColor = false;
+            this.btnPlus7.Click += new System.EventHandler(this.btnPlus7_Click);
             // 
             // btnPlus8
             // 
@@ -484,6 +486,7 @@
             this.btnPlus8.Text = "+";
             this.btnPlus8.TextAlign = System.Drawing.ContentAlignment.TopCenter;
             this.btnPlus8.UseVisualStyleBackColor = false;
+            this.btnPlus8.Click += new System.EventHandler(this.btnPlus8_Click);
             // 
             // btnPlus9
             // 
@@ -497,6 +500,7 @@
             this.btnPlus9.Text = "+";
             this.btnPlus9.TextAlign = System.Drawing.ContentAlignment.TopCenter;
             this.btnPlus9.UseVisualStyleBackColor = false;
+            this.btnPlus9.Click += new System.EventHandler(this.btnPlus9_Click);
             // 
             // btnPlus10
             // 
@@ -510,6 +514,7 @@
             this.btnPlus10.Text = "+";
             this.btnPlus10.TextAlign = System.Drawing.ContentAlignment.TopCenter;
             this.btnPlus10.UseVisualStyleBackColor = false;
+            this.btnPlus10.Click += new System.EventHandler(this.btnPlus10_Click);
             // 
             // btnPlus4
             // 
@@ -523,6 +528,7 @@
             this.btnPlus4.Text = "+";
             this.btnPlus4.TextAlign = System.Drawing.ContentAlignment.TopCenter;
             this.btnPlus4.UseVisualStyleBackColor = false;
+            this.btnPlus4.Click += new System.EventHandler(this.btnPlus4_Click);
             // 
             // btnPlus5
             // 
@@ -536,6 +542,7 @@
             this.btnPlus5.Text = "+";
             this.btnPlus5.TextAlign = System.Drawing.ContentAlignment.TopCenter;
             this.btnPlus5.UseVisualStyleBackColor = false;
+            this.btnPlus5.Click += new System.EventHandler(this.btnPlus5_Click);
             // 
             // btnPlus6
             // 
@@ -549,6 +556,7 @@
             this.btnPlus6.Text = "+";
             this.btnPlus6.TextAlign = System.Drawing.ContentAlignment.TopCenter;
             this.btnPlus6.UseVisualStyleBackColor = false;
+            this.btnPlus6.Click += new System.EventHandler(this.btnPlus6_Click);
             // 
             // btnPlus3
             // 
@@ -588,6 +596,7 @@
             this.btnMinus11.TabIndex = 79;
             this.btnMinus11.Text = "-";
             this.btnMinus11.UseVisualStyleBackColor = false;
+            this.btnMinus11.Click += new System.EventHandler(this.btnMinus11_Click);
             // 
             // btnMinus10
             // 
@@ -599,6 +608,7 @@
             this.btnMinus10.TabIndex = 78;
             this.btnMinus10.Text = "-";
             this.btnMinus10.UseVisualStyleBackColor = false;
+            this.btnMinus10.Click += new System.EventHandler(this.btnMinus10_Click);
             // 
             // btnMinus9
             // 
@@ -610,6 +620,7 @@
             this.btnMinus9.TabIndex = 77;
             this.btnMinus9.Text = "-";
             this.btnMinus9.UseVisualStyleBackColor = false;
+            this.btnMinus9.Click += new System.EventHandler(this.btnMinus9_Click);
             // 
             // btnMinus8
             // 
@@ -621,6 +632,7 @@
             this.btnMinus8.TabIndex = 76;
             this.btnMinus8.Text = "-";
             this.btnMinus8.UseVisualStyleBackColor = false;
+            this.btnMinus8.Click += new System.EventHandler(this.btnMinus8_Click);
             // 
             // btnMinus7
             // 
@@ -632,6 +644,7 @@
             this.btnMinus7.TabIndex = 75;
             this.btnMinus7.Text = "-";
             this.btnMinus7.UseVisualStyleBackColor = false;
+            this.btnMinus7.Click += new System.EventHandler(this.btnMinus7_Click);
             // 
             // btnMinus6
             // 
@@ -643,6 +656,7 @@
             this.btnMinus6.TabIndex = 74;
             this.btnMinus6.Text = "-";
             this.btnMinus6.UseVisualStyleBackColor = false;
+            this.btnMinus6.Click += new System.EventHandler(this.btnMinus6_Click);
             // 
             // btnMinus5
             // 
@@ -654,6 +668,7 @@
             this.btnMinus5.TabIndex = 73;
             this.btnMinus5.Text = "-";
             this.btnMinus5.UseVisualStyleBackColor = false;
+            this.btnMinus5.Click += new System.EventHandler(this.btnMinus5_Click);
             // 
             // label4
             // 
@@ -675,6 +690,7 @@
             this.btnMinus4.TabIndex = 71;
             this.btnMinus4.Text = "-";
             this.btnMinus4.UseVisualStyleBackColor = false;
+            this.btnMinus4.Click += new System.EventHandler(this.btnMinus4_Click);
             // 
             // btnMinus3
             // 
